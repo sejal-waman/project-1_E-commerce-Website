@@ -1,0 +1,30 @@
+CRITICAL - 2024-06-15 17:27:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/cosmetics.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/cosmetics.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/cosmetics', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(36): view('Commerce/cosmetics')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->cosmetics()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-15 17:27:53 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/kids.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/kids.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/kids', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(41): view('Commerce/kids')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->kids()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-15 17:27:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/jewellery.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/jewellery.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/jewellery', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(46): view('Commerce/jewellery')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->jewellery()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')

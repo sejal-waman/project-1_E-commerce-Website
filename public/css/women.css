@@ -1,0 +1,87 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.women-section {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+}
+
+.women-section h1 {
+    color: #e91e63;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+
+.women-section h1::after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 4px;
+    background: #e91e63;
+    left: 25%;
+    bottom: 0;
+    border-radius: 2px;
+}
+
+.card {
+    background-color: #055668;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    color: #fff;
+    transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card p {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.card a {
+    text-decoration: none;
+}
+
+.card button {
+    background-color: #fff;
+    color: #e91e63;
+    border: 2px solid #e91e63;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.card button:hover {
+    background-color: #e91e63;
+    color: #fff;
+    border-color: #fff;
+}
+
+.card:hover {
+    background-color: #d81b60;
+    border-color: #ccc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}

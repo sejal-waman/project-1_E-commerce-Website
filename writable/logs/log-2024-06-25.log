@@ -1,0 +1,200 @@
+CRITICAL - 2024-06-25 06:40:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:40:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:41:42 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:41:48 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:41:55 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:41:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:42:02 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 06:42:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Cart/cart.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Cart/cart.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Cart/cart', [], true)
+ 3 APPPATH\Controllers\CategoryController.php(47): view('Cart/cart', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\CategoryController->viewcart()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CategoryController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:12:13 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:14:26 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:14:34 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:15:36 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:17:17 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:17:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:12 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:20 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
+CRITICAL - 2024-06-25 08:18:59 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "Commerce/payment_options.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Commerce/payment_options.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('Commerce/payment_options', [], true)
+ 3 APPPATH\Controllers\PaymentController.php(12): view('Commerce/payment_options')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\PaymentController->payment_options()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PaymentController))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\E_commerce\\public\\index.php')
