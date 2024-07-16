@@ -57,3 +57,43 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+- 
+# E-Commerce Website
+
+## Description
+
+This project is an e-commerce website built using HTML, CSS, JavaScript, Bootstrap, and PHP with the CodeIgniter 4 framework. It provides a seamless and intuitive user experience for browsing and purchasing products online.
+
+## Features
+
+### Home Page
+- *Navigation Bar*: Includes buttons for Home, Register, and Login.
+- *User-Friendly Interface*: Designed to engage users with a clean and modern layout.
+
+### Register Page
+- *Easy Registration*: Allows new users to sign up with a simple and straightforward form.
+
+### Login Page
+- *Secure Login*: Provides a secure way for users to access their accounts.
+
+### Post-Login Navigation
+- *Explore*: 
+  - *Browse Products*: Users can browse a wide range of products available on the site.
+  - *Search Functionality*: Allows users to search for specific items.
+  - *Product Details*: Each product includes detailed descriptions, images, and pricing.
+
+- *Categories*: 
+  - *Organized Shopping*: Products are categorized to help users find what they are looking for quickly and easily.
+  - *Category Pages*: Each category has its own page with a list of relevant products.
+  - *Filter Options*: Users can filter products within categories by price, popularity, and other criteria.
+
+- *Cart*: 
+  - *Manage Purchases*: Users can view the items they have added to their cart.
+  - *Quantity Adjustment*: Allows users to adjust the quantity of items.
+  - *Remove Items*: Users can remove items from their cart.
+  - *Checkout*: Provides a streamlined process for users to complete their purchases.
+
+## Technologies Used
+- *Frontend*: HTML, CSS, JavaScript, Bootstrap
+- *Backend*: PHP, CodeIgniter 4 Framework
