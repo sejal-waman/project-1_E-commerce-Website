@@ -96,4 +96,4 @@ This project is an e-commerce website built using HTML, CSS, JavaScript, Bootstr
 
 ## Technologies Used
 - *Frontend*: HTML, CSS, JavaScript, Bootstrap
-- *Backend*: PHP, CodeIgniter 4 Framework
+- *Backend*: PHP, CodeIgniter 4 Framework,MySQL Database
